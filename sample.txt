@@ -2,4 +2,6 @@ This is a sample file
 
 A new line is added for the first time
 
+This is second line 
+
 EOF
