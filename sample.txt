@@ -2,7 +2,7 @@ This is a sample file
 
 First line is now modified.. 
 
-This is second line 
+This is second line removed...
 
 New third line is added now...
 
