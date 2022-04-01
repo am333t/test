@@ -15,6 +15,11 @@ pasta
 noodles
 manchoori
 fried rice
+roti
+tandoori
+naan
+sabji
+daal
 
 EOF
 
