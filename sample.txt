@@ -1,9 +1,7 @@
 This is a sample file 
 
-A new line is added for the first time
+First line is now modified.. 
 
 This is second line 
-
-This is third line..
 
 EOF
